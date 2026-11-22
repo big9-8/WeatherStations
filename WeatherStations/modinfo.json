@@ -1,0 +1,14 @@
+{
+    "$schema": "https://moddbcdn.vintagestory.at/schema/modinfo.latest.json",
+    "type": "Code",
+    "modid": "weatherstations",
+    "name": "WeatherStations",
+    "authors": [
+        "big9-8"
+    ],
+    "description": "Cosmetologist or something",
+    "version": "0.0",
+    "dependencies": {
+        "game": "1.22.0"
+    }
+}
